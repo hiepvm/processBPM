@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "processBPM.Data", "..\processBPM.Data\processBPM.Data.csproj", "{5019217C-942A-4A25-BE04-BE5DE5561718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "processBPM.Application", "..\processBPM.Application\processBPM.Application.csproj", "{AFBC1343-1B7D-4F13-BC86-27C1653AD1DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{260E6AB7-D256-4E85-A7D7-159C86D2B8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{260E6AB7-D256-4E85-A7D7-159C86D2B8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{260E6AB7-D256-4E85-A7D7-159C86D2B8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5019217C-942A-4A25-BE04-BE5DE5561718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5019217C-942A-4A25-BE04-BE5DE5561718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5019217C-942A-4A25-BE04-BE5DE5561718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5019217C-942A-4A25-BE04-BE5DE5561718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFBC1343-1B7D-4F13-BC86-27C1653AD1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBC1343-1B7D-4F13-BC86-27C1653AD1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBC1343-1B7D-4F13-BC86-27C1653AD1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBC1343-1B7D-4F13-BC86-27C1653AD1DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
